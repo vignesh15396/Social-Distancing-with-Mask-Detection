@@ -1,9 +1,9 @@
 # Social-Distancing-with-Mask-Detection
 
-Here Social distancing is not following which is indicated by Red Boxes
+Here Green Boxes indicate that social distancing is followed
 ![](output/out1.jpg)
 
-Here Green Boxes indicate that social distancing is followed
+Here Social distancing is not following which is indicated by Red Boxes
 ![](output/out2.jpg)
 
 No Mask
