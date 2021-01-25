@@ -1,5 +1,7 @@
 # Social-Distancing-with-Mask-Detection
 
+This Application can accept live web cam video and recored video as input.
+
 Here Green Boxes indicate that social distancing is followed
 ![](output/out1.jpg)
 
